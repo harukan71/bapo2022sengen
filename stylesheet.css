@@ -1,4 +1,10 @@
 h1{font-size:20px;
   color:blue;}
+h1{
+  img{
+    max-width: 20%;
+    max-height: 20%;
+  }
+}
 
 p{font-weight:bold;}
