@@ -13,6 +13,14 @@ li{
   height: 90px;
 }
 
+.header-logo {
+  float: left;
+  font-size: 36px;
+  /* 上下のpaddingを20px、左右のpaddingを40pxにしてください */
+  padding: 20px 40px;
+
+}
+
 h1{font-size:60px;
   color:#A5C0CC;}
 h1{
