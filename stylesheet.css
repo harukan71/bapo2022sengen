@@ -38,5 +38,27 @@ li{
 .copy-container span {
   color: #ff4a4a;
 }
+.copy-container h2 {
+  font-size: 60px;
+}
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
 
 
