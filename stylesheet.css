@@ -20,17 +20,21 @@ li{
   padding: 20px 40px;
 
 }
-
-h1{font-size:60px;
-  color:#A5C0CC;}
-h1{
-  img{
-    max-width: 50%;
-    max-height: 50%;
-  }
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+.main {
+  /* background-colorの指定を消してください */
+  
+  /* 上下のpaddingを100px、左右のpaddingを80pxにしてください */
+  padding: 100px 80px;
+  
+}
+.copy-container h1 {
+  font-size: 140px;
+  color:#A5C0CC;
 }
 
-p{font-weight:bold;
- font-size:50px;
-  font-family: "Lucida Grande";
-}
+
+
