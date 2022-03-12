@@ -33,8 +33,18 @@ li{
   padding: 20px 40px;
 
 }
+.main {
+  background-color: #bdf7f1;
+  height: 600px;
+}
 
-h1{font-size:40px;
+.footer {
+  background-color: #ceccf3;
+  height: 270px;
+}
+
+
+h1{font-size:30px;
   color:#A5C0CC;}
 h1{
   img{
