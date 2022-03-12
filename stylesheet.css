@@ -42,3 +42,9 @@ li{
 .copy-container h2 {
   font-size: 60px;
 }
+.p {
+  font-weight: bold;
+  float: left;
+  font-size: 18px;
+  
+  }
