@@ -42,7 +42,7 @@ li{
 .copy-container h2 {
   font-size: 40px;
 }
-.p {
+.p id {
   font-weight: bold;
   float: left;
   font-size: 70px;
