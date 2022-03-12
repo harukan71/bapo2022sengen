@@ -31,11 +31,11 @@ li{
   padding: 100px 80px;
   
 }
-.main-container h1 {
+.copy-container h1 {
   font-size: 40px;
   color:#A5C0CC;
 }
-main-container span {
+.copy-container span {
   color: #ff4a4a;
 }
 
