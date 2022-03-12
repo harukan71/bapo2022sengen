@@ -21,6 +21,7 @@ li{
 
 }
 .header-list li {
+  color: #fff;
   float: left;
   padding: 33px 20px;
 }
