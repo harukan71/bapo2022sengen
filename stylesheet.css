@@ -47,3 +47,34 @@ li{
   float: left;
   font-size: 20px;
   }
+/***トップへ戻るボタン***/
+#page-top {
+    display: block;
+    font-weight: bold;
+    padding: .7em;
+    text-align: center;
+    background: #fff; /*背景色*/
+    color: #666; /*文字色*/
+    transition: .3s;
+}
+/***マウスオーバー時***/
+#page-top:hover {
+    background: #666; /*背景色*/
+    color: #fff; /*文字色*/
+}
+/***トップへ戻るボタンここまで***
+/***追従するトップへ戻るボタン***/
+#page-top {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    background: #fff;
+    color: #737373;
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 50%;
+    box-shadow: 0 2px 10px -6px rgba(0,0,0,.5), 0 3px 10px -4px rgba(0,0,0,.2);
+}
+/***トップへ戻るボタンここまで***/
