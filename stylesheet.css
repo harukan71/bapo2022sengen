@@ -44,8 +44,11 @@ li{
 }
 
 .shain {
-  color:#097D37;
+  font-size: 16px;
 }
+
+.body [
+  font-size: 16px;
 
 .btn--orange,
 a.btn--orange {
