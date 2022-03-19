@@ -44,6 +44,12 @@ li{
   font-size: 40px;
 }
 
+.copy-container h4 {
+  font-weight:100
+  color: #797979
+}
+
+
 .shain {
   font-size: 30px;
 }
