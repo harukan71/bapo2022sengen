@@ -45,8 +45,9 @@ li{
 }
 
 .copy-container h4 {
-  font-weight:100
-  color: #797979
+  font-weight:100;
+  color: #797979;
+  padding: 33px 20px;
 }
 
 
